@@ -1,0 +1,10 @@
+C:\Users\DevOpsShashank\source\repos\FormApp\FormApp\FormApp\bin\Debug\netstandard2.0\FormApp.deps.json
+C:\Users\DevOpsShashank\source\repos\FormApp\FormApp\FormApp\bin\Debug\netstandard2.0\FormApp.dll
+C:\Users\DevOpsShashank\source\repos\FormApp\FormApp\FormApp\bin\Debug\netstandard2.0\FormApp.pdb
+C:\Users\DevOpsShashank\source\repos\FormApp\FormApp\FormApp\obj\Debug\netstandard2.0\FormApp.csproj.CoreCompileInputs.cache
+C:\Users\DevOpsShashank\source\repos\FormApp\FormApp\FormApp\obj\Debug\netstandard2.0\FormApp.App.xaml.g.cs
+C:\Users\DevOpsShashank\source\repos\FormApp\FormApp\FormApp\obj\Debug\netstandard2.0\FormApp.MainPage.xaml.g.cs
+C:\Users\DevOpsShashank\source\repos\FormApp\FormApp\FormApp\obj\Debug\netstandard2.0\FormApp.AssemblyInfoInputs.cache
+C:\Users\DevOpsShashank\source\repos\FormApp\FormApp\FormApp\obj\Debug\netstandard2.0\FormApp.AssemblyInfo.cs
+C:\Users\DevOpsShashank\source\repos\FormApp\FormApp\FormApp\obj\Debug\netstandard2.0\FormApp.dll
+C:\Users\DevOpsShashank\source\repos\FormApp\FormApp\FormApp\obj\Debug\netstandard2.0\FormApp.pdb

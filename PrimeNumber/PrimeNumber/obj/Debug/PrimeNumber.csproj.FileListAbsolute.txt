@@ -1,0 +1,14 @@
+C:\Users\DevOpsShashank\source\repos\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\DevOpsShashank\source\repos\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\DevOpsShashank\source\repos\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\DevOpsShashank\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojResolveAssemblyReference.cache
+C:\Users\DevOpsShashank\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\DevOpsShashank\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\DevOpsShashank\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb
+C:\Users\meets\source\repos\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\meets\source\repos\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\meets\source\repos\PrimeNumber\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\meets\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+C:\Users\meets\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\meets\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\meets\source\repos\PrimeNumber\PrimeNumber\obj\Debug\PrimeNumber.pdb

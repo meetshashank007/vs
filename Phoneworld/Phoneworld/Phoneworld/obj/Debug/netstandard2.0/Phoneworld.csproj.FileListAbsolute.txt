@@ -1,0 +1,11 @@
+C:\Users\DevOpsShashank\source\repos\Phoneworld\Phoneworld\Phoneworld\bin\Debug\netstandard2.0\Phoneworld.deps.json
+C:\Users\DevOpsShashank\source\repos\Phoneworld\Phoneworld\Phoneworld\bin\Debug\netstandard2.0\Phoneworld.dll
+C:\Users\DevOpsShashank\source\repos\Phoneworld\Phoneworld\Phoneworld\bin\Debug\netstandard2.0\Phoneworld.pdb
+C:\Users\DevOpsShashank\source\repos\Phoneworld\Phoneworld\Phoneworld\obj\Debug\netstandard2.0\Phoneworld.csprojResolveAssemblyReference.cache
+C:\Users\DevOpsShashank\source\repos\Phoneworld\Phoneworld\Phoneworld\obj\Debug\netstandard2.0\Phoneworld.csproj.CoreCompileInputs.cache
+C:\Users\DevOpsShashank\source\repos\Phoneworld\Phoneworld\Phoneworld\obj\Debug\netstandard2.0\Phoneworld.App.xaml.g.cs
+C:\Users\DevOpsShashank\source\repos\Phoneworld\Phoneworld\Phoneworld\obj\Debug\netstandard2.0\Phoneworld.MainPage.xaml.g.cs
+C:\Users\DevOpsShashank\source\repos\Phoneworld\Phoneworld\Phoneworld\obj\Debug\netstandard2.0\Phoneworld.AssemblyInfoInputs.cache
+C:\Users\DevOpsShashank\source\repos\Phoneworld\Phoneworld\Phoneworld\obj\Debug\netstandard2.0\Phoneworld.AssemblyInfo.cs
+C:\Users\DevOpsShashank\source\repos\Phoneworld\Phoneworld\Phoneworld\obj\Debug\netstandard2.0\Phoneworld.dll
+C:\Users\DevOpsShashank\source\repos\Phoneworld\Phoneworld\Phoneworld\obj\Debug\netstandard2.0\Phoneworld.pdb

@@ -1,0 +1,7 @@
+C:\Users\DevOpsShashank\source\repos\NQueeenProblemBacktracking\NQueeenProblemBacktracking\bin\Debug\NQueeenProblemBacktracking.exe.config
+C:\Users\DevOpsShashank\source\repos\NQueeenProblemBacktracking\NQueeenProblemBacktracking\bin\Debug\NQueeenProblemBacktracking.exe
+C:\Users\DevOpsShashank\source\repos\NQueeenProblemBacktracking\NQueeenProblemBacktracking\bin\Debug\NQueeenProblemBacktracking.pdb
+C:\Users\DevOpsShashank\source\repos\NQueeenProblemBacktracking\NQueeenProblemBacktracking\obj\Debug\NQueeenProblemBacktracking.csprojResolveAssemblyReference.cache
+C:\Users\DevOpsShashank\source\repos\NQueeenProblemBacktracking\NQueeenProblemBacktracking\obj\Debug\NQueeenProblemBacktracking.csproj.CoreCompileInputs.cache
+C:\Users\DevOpsShashank\source\repos\NQueeenProblemBacktracking\NQueeenProblemBacktracking\obj\Debug\NQueeenProblemBacktracking.exe
+C:\Users\DevOpsShashank\source\repos\NQueeenProblemBacktracking\NQueeenProblemBacktracking\obj\Debug\NQueeenProblemBacktracking.pdb

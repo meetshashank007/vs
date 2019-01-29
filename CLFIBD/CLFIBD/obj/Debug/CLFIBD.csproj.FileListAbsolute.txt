@@ -1,0 +1,7 @@
+C:\Users\DevOpsShashank\source\repos\CLFIBD\CLFIBD\bin\Debug\CLFIBD.exe.config
+C:\Users\DevOpsShashank\source\repos\CLFIBD\CLFIBD\bin\Debug\CLFIBD.exe
+C:\Users\DevOpsShashank\source\repos\CLFIBD\CLFIBD\bin\Debug\CLFIBD.pdb
+C:\Users\DevOpsShashank\source\repos\CLFIBD\CLFIBD\obj\Debug\CLFIBD.csprojResolveAssemblyReference.cache
+C:\Users\DevOpsShashank\source\repos\CLFIBD\CLFIBD\obj\Debug\CLFIBD.csproj.CoreCompileInputs.cache
+C:\Users\DevOpsShashank\source\repos\CLFIBD\CLFIBD\obj\Debug\CLFIBD.exe
+C:\Users\DevOpsShashank\source\repos\CLFIBD\CLFIBD\obj\Debug\CLFIBD.pdb
